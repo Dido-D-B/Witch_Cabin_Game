@@ -1,6 +1,10 @@
 # The Enchanted Cauldron
 
+<img width="2872" height="1580" alt="image" src="https://github.com/user-attachments/assets/93b6de64-0d94-4ddc-bc49-f56e29afc263" />
+
 Welcome to the Enchanted Cauldron, a cozy and magical Streamlit web app built with Python. Brew potions, draw tarot cards, summon your familiar, help mysterious villagers, and explore the enchanted forest — all within a beautifully styled dark gothic interface.
+
+You can find the app [here](https://enchanted-cauldron-witch-game.streamlit.app/).
 
 --------
 
