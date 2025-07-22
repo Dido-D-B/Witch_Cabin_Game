@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Nyx",
+        "species": "Black Cat",
+        "trait": "Mischievous and wise",
+        "backstory": "Found you on a blood moon night, whispering secrets from beyond."
+    },
+    {
+        "name": "Echo",
+        "species": "Raven",
+        "trait": "Cryptic and loyal",
+        "backstory": "Appeared after your first spell, never left your side."
+    },
+    {
+        "name": "Thistle",
+        "species": "Toad",
+        "trait": "Grumpy but powerful",
+        "backstory": "Lives in your cauldron and knows more than they let on."
+    },
+    {
+        "name": "Wisp",
+        "species": "Spirit Fox",
+        "trait": "Silent and swift",
+        "backstory": "Only you can see them — the villagers say it’s just wind."
+    },
+    {
+        "name": "Rune",
+        "species": "Owl",
+        "trait": "Wise and watchful",
+        "backstory": "Perched on your window, they see all that happens in the night."
+    },
+    {
+        "name": "Cinder",
+        "species": "Bat",
+        "trait": "Playful and elusive",
+        "backstory": "Flits around your shop, always looking for mischief."
+    },
+    {
+        "name": "Glimmer",
+        "species": "Firefly",
+        "trait": "Gentle and illuminating",
+        "backstory": "Guides you through the darkest nights with their soft glow."
+    }
+]

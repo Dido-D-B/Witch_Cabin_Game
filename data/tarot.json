@@ -1,0 +1,134 @@
+[
+    {
+      "name": "The Fool",
+      "meaning": "New beginnings, spontaneity, free spirit",
+      "image": "the_fool.jpg",
+      "daily_meaning": "A fresh start beckons — embrace the unknown and let your spirit wander."
+    },
+    {
+      "name": "The Magician",
+      "meaning": "Manifestation, resourcefulness, power",
+      "image": "the_magician.jpg",
+      "daily_meaning": "Harness your talents today — the universe conspires in your favor."
+    },
+    {
+      "name": "The High Priestess",
+      "meaning": "Intuition, divine feminine, subconscious mind",
+      "image": "the_high_priestess.jpg",
+      "daily_meaning": "Trust your inner voice — it knows the way even when the path is hidden."
+    },
+    {
+      "name": "The Empress",
+      "meaning": "Femininity, beauty, nature, nurturing",
+      "image": "the_empress.jpg",
+      "daily_meaning": "Nurture something or someone today — beauty blooms in your care."
+    },
+    {
+      "name": "The Emperor",
+      "meaning": "Authority, structure, control, fatherhood",
+      "image": "the_emperor.jpg",
+      "daily_meaning": "Take charge with steady hands — structure brings strength."
+    },
+    {
+      "name": "The Hierophant",
+      "meaning": "Spiritual wisdom, tradition, conformity",
+      "image": "the_hierophant.jpg",
+      "daily_meaning": "Tradition holds wisdom — seek counsel or honor rituals today."
+    },
+    {
+      "name": "The Lovers",
+      "meaning": "Love, harmony, choices, alignment",
+      "image": "the_lovers.jpg",
+      "daily_meaning": "A choice may arise — follow your heart, not just your logic."
+    },
+    {
+      "name": "The Chariot",
+      "meaning": "Willpower, determination, success",
+      "image": "the_chariot.jpg",
+      "daily_meaning": "You’re in the driver’s seat — go forward with confidence and control."
+    },
+    {
+      "name": "Strength",
+      "meaning": "Courage, persuasion, influence, compassion",
+      "image": "strength.jpg",
+      "daily_meaning": "Lead with gentle strength — compassion is your quiet power."
+    },
+    {
+      "name": "The Hermit",
+      "meaning": "Soul-searching, introspection, inner guidance",
+      "image": "the_hermit.jpg",
+      "daily_meaning": "Step back from the noise — your answers lie in silence and reflection."
+    },
+    {
+      "name": "Wheel of Fortune",
+      "meaning": "Good luck, karma, life cycles, destiny",
+      "image": "wheel_of_fortune.jpg",
+      "daily_meaning": "Change is turning the wheel — lean into destiny’s dance."
+    },
+    {
+      "name": "Justice",
+      "meaning": "Fairness, truth, law, cause and effect",
+      "image": "justice.jpg",
+      "daily_meaning": "Act with integrity — truth will find its balance."
+    },
+    {
+      "name": "The Hanged Man",
+      "meaning": "Pause, surrender, letting go, new perspective",
+      "image": "the_hanged_man.jpg",
+      "daily_meaning": "Pause. Look again — perspective reshapes everything."
+    },
+    {
+      "name": "Death",
+      "meaning": "Endings, transformation, transition",
+      "image": "death.jpg",
+      "daily_meaning": "Let go — transformation awaits on the other side of endings."
+    },
+    {
+      "name": "Temperance",
+      "meaning": "Balance, moderation, patience, purpose",
+      "image": "temperance.jpg",
+      "daily_meaning": "Blend, balance, and be patient — harmony takes time."
+    },
+    {
+      "name": "The Devil",
+      "meaning": "Addiction, materialism, playfulness, restriction",
+      "image": "the_devil.jpg",
+      "daily_meaning": "Recognize your chains — and know you can break them."
+    },
+    {
+      "name": "The Tower",
+      "meaning": "Sudden change, upheaval, chaos, awakening",
+      "image": "the_tower.jpg",
+      "daily_meaning": "Disruption clears the air — rebuild with wisdom from the ashes."
+    },
+    {
+      "name": "The Star",
+      "meaning": "Hope, inspiration, renewal, spirituality",
+      "image": "the_star.jpg",
+      "daily_meaning": "Hope glimmers on your horizon — trust in renewal."
+    },
+    {
+      "name": "The Moon",
+      "meaning": "Illusion, fear, anxiety, subconscious, intuition",
+      "image": "the_moon.jpg",
+      "daily_meaning": "Mystery and dreams swirl — tread gently and trust your intuition."
+    },
+    {
+      "name": "The Sun",
+      "meaning": "Joy, success, positivity, vitality",
+      "image": "the_sun.jpg",
+      "daily_meaning": "Joy is radiant — share your light unapologetically today."
+    },
+    {
+      "name": "Judgement",
+      "meaning": "Reflection, reckoning, inner calling",
+      "image": "judgement.jpg",
+      "daily_meaning": "Reflect deeply — your future grows from honest reckoning."
+    },
+    {
+      "name": "The World",
+      "meaning": "Completion, integration, accomplishment, travel",
+      "image": "the_world.jpg",
+      "daily_meaning": "Celebrate how far you’ve come — wholeness is within reach."
+    }
+  ]

@@ -1,0 +1,42 @@
+[
+    {
+      "name": "Elixir of the Night",
+      "description": "A potion that calms dreams and invites visions of the beyond.",
+      "ingredients": ["Wolfsbane", "Lavender", "Moonwater"]
+    },
+    {
+      "name": "Crimson Hex",
+      "description": "Used to protect the caster by redirecting dark intentions.",
+      "ingredients": ["Mandrake Root", "Dragon's Blood", "Ash"]
+    },
+    {
+      "name": "Whispering Wind",
+      "description": "Grants the ability to hear messages carried on the breeze.",
+      "ingredients": ["Crow Feather", "Thyme", "Crystal Dust"]
+    },
+    {
+      "name": "Potion of Prosperity",
+      "description": "Brews luck, fortune, and opportunity in abundance.",
+      "ingredients": ["Citrine", "Basil", "Clove"]
+    },
+    {
+      "name": "Veil of Shadows",
+      "description": "Cloaks the user in temporary invisibility from spiritual forces.",
+      "ingredients": ["Shadowroot", "Obsidian Powder", "Bat Wing"]
+    },
+    {
+      "name": "Elixir of Eternal Youth",
+      "description": "A rare potion that slows aging and revitalizes the spirit.",
+      "ingredients": ["Elderflower", "Ginseng", "Honey"]
+    },
+    {
+      "name": "Dreamweaver's Brew",
+      "description": "Enhances lucid dreaming and astral projection abilities.",
+      "ingredients": ["Blue Lotus", "Chamomile", "Star Anise"]
+    },
+    {
+      "name": "Phoenix Tears",
+      "description": "A healing potion that mends wounds and restores vitality.",
+      "ingredients": ["Rose Petals", "Lavender Oil", "Spring Water"]
+    }
+]
