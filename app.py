@@ -7,17 +7,30 @@ import base64
 import streamlit_image_coordinates as sic
 import streamlit.components.v1 as components
 
+
 def get_base64_img(path):
     with open(path, "rb") as img_file:
         return base64.b64encode(img_file.read()).decode()
 
-# Set page config with centered layout
-st.set_page_config(page_title="The Enchanted Cauldron", layout="centered")
+
+# Set page config with wide layout and custom title/icon
+st.set_page_config(
+    page_title="Gothic Witch Shop",
+    page_icon="🕯️",
+    layout="wide",
+    initial_sidebar_state="expanded"
+)
+
+# Quick sidebar usage hint
+st.markdown("""
+*Use the sidebar to toggle background music and open your Witch's Grimoire.*
+""")
 
 # Responsive viewport meta for mobile devices
 components.html("""
     <meta name="viewport" content="width=device-width, initial-scale=1">
 """, height=0)
+
 # Unified custom CSS block
 st.markdown("""
 <style>
@@ -27,6 +40,12 @@ html, body, .stApp {
     background: linear-gradient(180deg, #1c1b29 0%, #100f18 100%);
     color: #f0e6dd;
     font-family: 'Cardo', serif;
+}
+/* Change Streamlit toolbar background color */
+[data-testid="stHeader"] {
+    background-color: #2a1e3a !important;
+    color: #f8e9d6 !important;
+    border-bottom: 1px solid #3b364d !important;
 }
 .stApp {
     padding: 0 2rem;
@@ -148,11 +167,6 @@ label {
     font-size: 1.1rem;
 }
 
-/* Hide Streamlit header */
-header {
-    visibility: hidden;
-    height: 0;
-}
 /* Final fix for multiselect dropdown and radio buttons */
 div[data-baseweb="select"] {
     background-color: #2a1e3a !important;
@@ -199,6 +213,39 @@ div[data-baseweb="select"] * {
     .stColumns {
         flex-direction: column !important;
     }
+                    
+}
+</style>
+""", unsafe_allow_html=True)
+
+# Force visibility and style of sidebar toggle on all devices
+st.markdown("""
+<style>
+/* Ensure visibility and styling of the sidebar toggle button */
+[data-testid="collapsedControl"] {
+    z-index: 10001 !important;
+    position: fixed !important;
+    top: 12px !important;
+    left: 12px !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    visibility: visible !important;
+    opacity: 1 !important;
+    width: 40px !important;
+    height: 40px !important;
+    background-color: #2a1e3a !important;
+    color: #f5f5f5 !important;
+    border: 1px solid #f8e9d6 !important;
+    border-radius: 4px !important;
+    font-size: 1.5rem !important;
+    box-shadow: 0 0 6px #ffcc99aa;
+}
+
+/* Optional hover effect */
+[data-testid="collapsedControl"]:hover {
+    background-color: #553355 !important;
+    color: #ffffff !important;
 }
 </style>
 """, unsafe_allow_html=True)
