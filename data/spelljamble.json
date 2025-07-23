@@ -36,16 +36,16 @@
         "scrambled": ["ancients", "by", "the", "Winds", "carry", "secrets", "whispered"]
     },
     {
-        "spell": "Time bends to the will of the sorcerer",
-        "scrambled": ["to", "will", "of", "the", "Time", "bends", "sorcerer"]
+        "spell": "Time bends to the will of sorcerers",
+        "scrambled": ["to", "will", "of", "the", "Time", "bends", "sorcerers"]
     },
     {
         "spell": "Nature's magic flows through every living thing",
         "scrambled": ["every", "flows", "thing", "Nature's", "magic", "through", "living"]
     },
     {
-        "spell": "The veil between worlds thins under the full moon",
-        "scrambled": ["worlds", "under", "the", "full", "moon", "The", "veil", "between", "thins"]
+        "spell": "Veil between worlds thins under the full moon",
+        "scrambled": ["worlds", "under", "full", "moon", "the", "Veil", "between", "thins"]
     },
     {
         "spell": "Awaken the spirit within with a single thought",
